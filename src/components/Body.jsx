@@ -35,7 +35,7 @@ function Body({ reasonsData, extraData }) {
           </p>
           <p className="article__text">
             Pero a parte de todo esto, te cuento que soy una tía{" "}
-            <b>divertida</b>,<b>creativa</b> por excelencia, igual te pinto un
+            <b>divertida</b> y <b>creativa</b> por excelencia, igual te pinto un
             cuadro que te hago la reforma de la casa. Suelo conseguir lo que me
             propongo, y además hago del camino lo más <b>divertido</b> posible.
           </p>
@@ -47,7 +47,7 @@ function Body({ reasonsData, extraData }) {
           <h2 className="article__title">Por qué Adopta un Junior</h2>
           <p className="article__text">
             Estas son las razones por las que quiero participar en los grupos de
-            trabajo:
+            trabajo de Adopta un Junior:
             <ul className="cards">{reasonHTML}</ul>
           </p>
         </article>
