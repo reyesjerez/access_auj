@@ -1,11 +1,9 @@
-function Card() {
+function Card({ title, text }) {
   return (
-    <div className="card">
-      <h3 className="card__title">Seguir aprendiendo</h3>
-      <p className="card__text">
-        Tras estudiar el bootcamp, te quedas desamparado.
-      </p>
-    </div>
+    <li className="card">
+      <h3 className="card__title">{title}</h3>
+      <p className="card__text">{text}</p>
+    </li>
   );
 }
 

@@ -1,6 +1,9 @@
 import Card from "./card";
 
-function Body() {
+function Body({ reasonsData }) {
+  const reasonHTML = reasonsData.map((reason) => {
+    return <Card title={reason.title} text={reason.text}></Card>;
+  });
   return (
     <body className="body">
       <section className="main__container">
@@ -15,10 +18,7 @@ function Body() {
           <p className="article__text">
             Estas son las razones por las que quiero participar en los grupos de
             trabajo:
-            <div className="cards">
-              <Card />
-              <Card />
-            </div>
+            <ul className="cards">{reasonHTML}</ul>
           </p>
         </article>
       </section>
