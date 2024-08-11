@@ -1,0 +1,24 @@
+{
+    "extras": [
+        {
+            "title": "React",
+            "text": "He querido aprovechar para repasar mis conocimientos de React, por lo que he utilizado este framework para crear esta pequeña aplicación web."
+        },
+        {
+            "title": "Componentes",
+            "text": "Las tarjetas que he creado son componentes de React que se renderizan a partir de un array guardado en archivo .json. Cuando tenga más tiempo me gustaría crear dos API's para seguir practcando y obtener los datos desde ellos   ."
+        },
+        {
+            "title": "PMV",
+            "text": "No he tenido mucho tiempo para realizar esta aplicación, sin embargo he querido crear un Producto Mínimo Viable que irá mejorando y ganando funcionalidades con más tiempo."
+        },
+        {
+            "title": "UX/UI",
+            "text": "Actualmente estoy estudiando UX/UI, por lo que (aunque se trata de un PMV) he intentado agregar elementos de interacción que enriquezcan la experiencia del usuario."
+        },
+        {
+            "title": "Diseño Responsive",
+            "text": "He desarrollado esta aplicación mediante el método Mobile First, creando un diseño responsive al que se puede acceder desde cualquier dispositivo."
+        }
+    ]
+}

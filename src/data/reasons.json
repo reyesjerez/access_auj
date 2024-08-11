@@ -1,27 +1,24 @@
-{ "reasons" : [
-    {
-        "title": "Seguir aprendiendo1",
-        "text": "Tras realizar un bootcamp, creo que es importante seguir aprendiendo y no perder el ritmo."
-    },
- {
-        "title": "Seguir aprendiendo2",
-        "text": "Tras realizar un bootcamp, creo que es importante seguir aprendiendo y no perder el ritmo."
-    },
 {
-        "title": "Seguir aprendiendo3",
-        "text": "Tras realizar un bootcamp, creo que es importante seguir aprendiendo y no perder el ritmo."
-    },
-{
-        "title": "Seguir aprendiendo4",
-        "text": "Tras realizar un bootcamp, creo que es importante seguir aprendiendo y no perder el ritmo."
-    },
- {
-        "title": "Seguir aprendiendo5",
-        "text": "Tras realizar un bootcamp, creo que es importante seguir aprendiendo y no perder el ritmo."
-    },
-{
-        "title": "Seguir aprendiendo6",
-        "text": "Tras realizar un bootcamp, creo que es importante seguir aprendiendo y no perder el ritmo."
-    }
-]
+    "reasons": [
+        {
+            "title": "Keep learning",
+            "text": "Tras realizar un bootcamp, creo que es importante seguir aprendiendo y no perder el ritmo."
+        },
+        {
+            "title": "Safe Space",
+            "text": "Crear redes y espacios seguros para juniors es fundamental."
+        },
+        {
+            "title": "Keep practicing",
+            "text": "La práctica es la base de la programación."
+        },
+        {
+            "title": "Networking",
+            "text": "Los grupos de trabajo son una oportunidad increible para conseguir grandes contactos."
+        },
+        {
+            "title": "Get a job",
+            "text": "Creo que Adopta un Junior puede ayudarme a conseguir mi primer empleo tech.    "
+        }
+    ]
 }
