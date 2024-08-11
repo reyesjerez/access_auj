@@ -1,3 +1,5 @@
+import Card from "./card";
+
 function Body() {
   return (
     <body className="body">
@@ -14,12 +16,8 @@ function Body() {
             Estas son las razones por las que quiero participar en los grupos de
             trabajo:
             <div className="cards">
-              <div className="card">
-                <h3 className="card__title">Seguir aprendiendo</h3>
-                <p className="card__text">
-                  Tras estudiar el bootcamp, te quedas desamparado.
-                </p>
-              </div>
+              <Card />
+              <Card />
             </div>
           </p>
         </article>
