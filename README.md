@@ -18,3 +18,6 @@ Cuando me llegó la propuesta de Adopta un Junior para poder acceder a los grupo
 - Desde mi lugar, lo que puedo es garantizar que trabajaré duro, invertiré todo el tiempo necesario y más para cumplir con los objetivos del grupo.
 - Además a nivel personal, tengo un objetivo claro que persigo desde hace ya un año: conseguir un empleo en el sector tecnológico.
 - Busco desarrollarme como profesional, crecer y crear un proyecto a largo plazo, que me permita colaborar con grandes empresas y tener una buena conciliación con mi familia. Apuesto por conseguir una calidad profesional y vital, construyéndolo poco a poco y con todas las ganas posibles.
+
+---> Os dejo un Loom con mis razones para estar en el Grupo de Trabajo!! 
+     https://www.loom.com/share/8662a1ace63546ffae573de77b7cf142?sid=fbcb9fdb-fb30-40ab-9187-17e2bd5871bb
